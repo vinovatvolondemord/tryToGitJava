@@ -1,2 +1,2 @@
 # tryToGitJava
-# tryToGitJava
+# NotTryToGit
